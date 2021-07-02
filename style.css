@@ -1,0 +1,47 @@
+#header{
+    width: 70%;
+    height: 20%;
+    font-size: 30px;
+    border-radius: 10px;
+    background-image: linear-gradient( to bottom right, red 0%, yellow 50%, blue 100%);
+    letter-spacing: 10px;
+}
+
+.span{
+    font-size: 40px;
+}
+
+body{
+    background-color: sandybrown;
+}
+
+#questions{
+    font-size: 23px;
+}
+
+#live{
+    height: 400px;
+    width: 400px;
+    border: 5px inset rgb(153, 7, 153);
+}
+
+#snapshot{
+    height: 400px;
+    width: 400px;
+    border: 5px inset rgb(18, 69, 163);
+}
+
+.buttons {
+    width: 50%;
+}
+
+.name , .emoji {
+    font-size: 37px;
+}
+
+.predictions {
+    border: 3px ridge black;
+}
+
+
+
